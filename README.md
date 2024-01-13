@@ -1,6 +1,6 @@
 ### Quem eu sou
 
-Olá! Meu nome é Cáren. Eu sou graduada em Análise e Desenvolvimento de Sistemas e me interesso por desenvolvimento iOS, principalemte Swift | SwiftUI :grinning:
+Olá! Meu nome é Cáren. Eu sou graduada em Análise e Desenvolvimento de Sistemas e me interesso por desenvolvimento iOS, principalmente Swift | SwiftUI :grinning:
 
 ### O que você encontra no meu GitHub 👀 
 :iphone: Projetos mobile iOS
@@ -9,11 +9,11 @@ Olá! Meu nome é Cáren. Eu sou graduada em Análise e Desenvolvimento de Siste
 
 :twisted_rightwards_arrows: Alguns códigos aleatórios
 
-:mortar_board: Meus trabalhos da faculdade
+:mortar_board: Meus trabalhos da faculdade e pós graduação
 
 ### Linguagens utilizadas
-![Swift](https://img.shields.io/badge/swift-F54A2A?logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
+![Swift Badge](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 ### O que eu utilizei para construir meus repositórios :mag_right:
@@ -37,10 +37,8 @@ _Tecnologias | Ferramentas | Bibliotecas | Frameworks | Banco de dados utilizado
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?&logo=youtube&logoColor=white)
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats-elaniacs.vercel.app/api?username=elaniacs&count_private=true&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats-elaniacs.vercel.app/api/top-langs/?username=elaniacs&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats-git-master-elaniacs.vercel.app/api?username=elaniacs&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats-git-master-elaniacs.vercel.app/api/top-langs/?username=elaniacs)](https://github.com/elaniacs/github-readme-stats)
 
 
 <!---
